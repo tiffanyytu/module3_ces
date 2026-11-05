@@ -4,7 +4,7 @@ A cooperative two-player game built with two ESP32 LILYGO T-Displays communicati
 
 One player provides **Water** and the other provides **Sunlight**. Both players must press the buttons on their devices to supply enough of each resource for a shared plant to grow from a seed into a flower.
 
-![Gameplay Demo](media/demo_mod3.gif)
+![Gameplay Demo](media/demo_mod3_comp.gif)
 
 ## Design Goal
 
