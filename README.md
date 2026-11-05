@@ -174,7 +174,7 @@ espnow-grow-a-plant/
 ├── src/
 │   └── module3.ino
 └── media/
-    ├── demo_mod3.gif
+    ├── demo_mod3_comp.gif
     ├── gameplay_mod3.jpg
 ```
 
