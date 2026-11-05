@@ -4,7 +4,7 @@ A cooperative two-player game built with two ESP32 LILYGO T-Displays communicati
 
 One player provides **Water** and the other provides **Sunlight**. Both players must press the buttons on their devices to supply enough of each resource for a shared plant to grow from a seed into a flower.
 
-![Gameplay Demo](media/demo.gif)
+![Gameplay Demo](media/demo_mod3.gif)
 
 ## Design Goal
 
@@ -172,19 +172,16 @@ This helps the two displays stay synchronized if an ESP-NOW packet is lost.
 espnow-grow-a-plant/
 ├── README.md
 ├── src/
-│   └── grow_a_plant.ino
+│   └── module3.ino
 └── media/
-    ├── demo.gif
-    ├── gameplay.jpg
-    └── boards.jpg
+    ├── demo_mod3.gif
+    ├── gameplay_mod3.jpg
 ```
 
 ## Documentation
 
-![Two-Player Setup](media/boards.jpg)
-
-![Gameplay](media/gameplay.jpg)
+![Gameplay](media/gameplay_mod3.jpg)
 
 For more information about the design process, technical implementation, and development of the cooperative mechanic, see the accompanying blog post:
 
-[Read the full project blog post](YOUR_NOTION_BLOG_URL)
+[Read the full project blog post]([YOUR_NOTION_BLOG_URL](https://app.notion.com/p/Module-3-9214a92f475b82feb65d01c3f049a9fb))
