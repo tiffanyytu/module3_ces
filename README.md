@@ -184,4 +184,4 @@ espnow-grow-a-plant/
 
 For more information about the design process, technical implementation, and development of the cooperative mechanic, see the accompanying blog post:
 
-[Read the full project blog post]([YOUR_NOTION_BLOG_URL](https://app.notion.com/p/Module-3-9214a92f475b82feb65d01c3f049a9fb))
+https://app.notion.com/p/Module-3-9214a92f475b82feb65d01c3f049a9fb
